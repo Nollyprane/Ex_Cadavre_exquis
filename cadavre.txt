@@ -1,1 +1,1 @@
-ceci est une première phrase sans intérêt.
+ceci est une première phrase sans intérêt. Ceci est une deuxieme phrase sans intérêt.
